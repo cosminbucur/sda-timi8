@@ -60,7 +60,7 @@ The project contains multiple sub modules, each with a similar structure:
 	> git clone https://github.com/cosminbucur/sda-timi8.git
 
 ##### in intellij
-	open project C:\dev\sda-group11
+	open project C:\dev\sda-timi8
 
 	check auto import and wait
 
